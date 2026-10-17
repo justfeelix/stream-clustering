@@ -8,11 +8,11 @@ compared them. This repository holds the final report; each algorithm lives in i
 
 | Block | Algorithm | Repository |
 |---|---|---|---|
-| 0 | D-Stream (grid-based density clustering) | [dstream-hajuj](https://github.com/justfeelix/dstream-hajuj) | 
-| 1 | DenStream (density-based micro-clusters) | [denstream](https://github.com/justfeelix/denstream) |
-| 2 | CEDGM | [cedgm](https://github.com/justfeelix/cedgm) |
-| 3 | DenSOINN | [densoinn](https://github.com/justfeelix/densoinn) | 
-| 4 | LiarTree (anytime clustering) | [liartree](https://github.com/justfeelix/liartree) |
+| 0 | D-Stream (grid-based density clustering) | [dstream-hajuj](https://github.com/justfeelix/dstream-hajuj) 
+| 1 | DenStream (density-based micro-clusters) | [denstream](https://github.com/justfeelix/denstream) 
+| 2 | CEDGM | [cedgm](https://github.com/justfeelix/cedgm) 
+| 3 | DenSOINN | [densoinn](https://github.com/justfeelix/densoinn) 
+| 4 | LiarTree (anytime clustering) | [liartree](https://github.com/justfeelix/liartree) 
 
 ## Report
 
