@@ -1,4 +1,4 @@
-# Stream Clustering (LMU Munich, SoSe 2026)
+# Stream Clustering (Implementation of different algorithms and  their evaluations)
 
 Practical course on stream clustering at the Database Systems and Data Mining chair (DBS), LMU Munich.
 Over five blocks, teams implemented stream clustering algorithms on a shared evaluation framework and
