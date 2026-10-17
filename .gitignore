@@ -1,0 +1,25 @@
+# Component repositories (published separately)
+cedgm/
+densoinn/
+denstream/
+dstream-hajuj/
+liartree/
+
+# Private notes and course material
+summary-chat-with-gemini.txt
+other/
+*.zip
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+texput.log
+
+.DS_Store
