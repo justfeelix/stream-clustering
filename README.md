@@ -17,12 +17,15 @@ compared them. This repository holds the final report; each algorithm lives in i
 ## Report
 
 - `main.pdf`: compiled report
-- `main.tex` and `report/`: LaTeX sources (one chapter per block)
+- `report/`: LaTeX sources, one chapter per block (submodule:
+  [stream-clustering-report](https://github.com/justfeelix/stream-clustering-report))
+
+Clone with sources: `git clone --recurse-submodules https://github.com/justfeelix/stream-clustering.git`
 
 Build: `cd report && latexmk -pdf main.tex`
 
 ## Notes
 
 - Team projects: commit histories include my teammates' work.
-- The shared evaluation framework (`baseframework`) belongs to the course and is not published here.
+- The shared evaluation framework (`baseframework`) was written by the course supervisor and is included in the component repositories with permission.
 - Datasets are not included; see the README of each repository.
