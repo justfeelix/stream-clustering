@@ -6,7 +6,7 @@ compared them. This repository holds the final report; each algorithm lives in i
 
 ## Components
 
-| Block | Algorithm | Repository |
+| Block | Algorithm | Repository 
 |---|---|---|---|
 | 0 | D-Stream (grid-based density clustering) | [dstream-hajuj](https://github.com/justfeelix/dstream-hajuj) 
 | 1 | DenStream (density-based micro-clusters) | [denstream](https://github.com/justfeelix/denstream) 
